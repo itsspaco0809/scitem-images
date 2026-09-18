@@ -1,0 +1,126 @@
+BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCategory,Qty,Weight
+14719,6065824,14719.dat,Tile 2 x 2 Corner,86,71,Light Bluish Gray,Solid Colors,2,0.43
+14719,6369265,14719.dat,Tile 2 x 2 Corner,59,320,Dark Red,Solid Colors,4,
+15068,6102357,15068.dat,"Slope, Curved 2 x 2 x 2/3 ",86,71,Light Bluish Gray,Solid Colors,8,0.57
+15573,6066097,15573.dat,"Plate, Modified 1 x 2 with 1 Stud with Groove and Bottom Stud Holder (Jumper) ",86,71,Light Bluish Gray,Solid Colors,3,0.3
+15573,6092597,15573.dat,"Plate, Modified 1 x 2 with 1 Stud with Groove and Bottom Stud Holder (Jumper) ",59,320,Dark Red,Solid Colors,2,0.3
+15712,6308012,15712.dat,"Tile, Modified 1 x 1 with Open O Clip ",86,71,Light Bluish Gray,Solid Colors,2,0.2
+18654,6161155,18654.dat,"Technic, Liftarm Thick 1 x 1 (Spacer) ",95,179,Flat Silver,Pearl Colors,2,0.17
+18974,6379102,18974.dat,"Vehicle, Mudguard 4 x 2 1/2 x 2 1/3 with Arch Round ",86,71,Light Bluish Gray,Solid Colors,2,
+20482,6258831,20482.dat,"Tile, Round 1 x 1 with Bar and Small Pin Hole ",86,71,Light Bluish Gray,Solid Colors,6,0.16
+2420,4211353,2420.dat,Plate 2 x 2 Corner,86,71,Light Bluish Gray,Solid Colors,4,0.54
+2420,242026,2420.dat,Plate 2 x 2 Corner,11,0,Black,Solid Colors,6,0.54
+2420,4585751,2420.dat,Plate 2 x 2 Corner,59,320,Dark Red,Solid Colors,4,0.54
+24246,6250597,24246.dat,"Tile, Round 1 x 1 Half Circle Extended ",86,71,Light Bluish Gray,Solid Colors,1,0.1
+24246,6256435,24246.dat,"Tile, Round 1 x 1 Half Circle Extended ",11,0,Black,Solid Colors,8,0.1
+24299,6163478,24299.dat,"Wedge, Plate 2 x 2  Left ",86,71,Light Bluish Gray,Solid Colors,1,0.44
+24307,6163477,24307.dat,"Wedge, Plate 2 x 2  Right ",86,71,Light Bluish Gray,Solid Colors,1,0.44
+2431,4211356,2431.dat,Tile 1 x 4,86,71,Light Bluish Gray,Solid Colors,5,0.54
+2431,4539060,2431.dat,Tile 1 x 4,59,320,Dark Red,Solid Colors,3,0.54
+25269,6302961,25269.dat,"Tile, Round 1 x 1 Quarter ",7,1,Blue,Solid Colors,2,
+25269,6172383,25269.dat,"Tile, Round 1 x 1 Quarter ",11,0,Black,Solid Colors,2,0.1
+25269,6170390,25269.dat,"Tile, Round 1 x 1 Quarter ",5,4,Red,Solid Colors,2,0.1
+25269,6176433,25269.dat,"Tile, Round 1 x 1 Quarter ",86,71,Light Bluish Gray,Solid Colors,6,0.1
+26047,6225246,26047.dat,"Plate, Round 1 x 1 with Bar Handle ",86,71,Light Bluish Gray,Solid Colors,2,0.3
+26601,6186657,26601.dat,"Wedge, Plate 2 x 2  Cut Corner ",86,71,Light Bluish Gray,Solid Colors,2,0.5
+26604,6267495,26604.dat,"Brick, Modified 1 x 1 with Studs on 2 Sides, Adjacent ",86,71,Light Bluish Gray,Solid Colors,2,
+27263,6177078,27263.dat,"Tile, Modified Facet 2 x 2 ",86,71,Light Bluish Gray,Solid Colors,2,0.33
+28192,6267498,28192.dat,Slope 45 2 x 1 with Cutout without Stud,59,320,Dark Red,Solid Colors,4,
+28974,6534947,28974.dat,Minifigure Neck Bracket with Back Stud - Thick Back Wall,5,4,Red,Solid Colors,4,
+29119,6225142,29119.dat,Wedge 2 x 1 x 2/3 Right,86,71,Light Bluish Gray,Solid Colors,11,0.23
+29120,6225139,29120.dat,Wedge 2 x 1 x 2/3 Left,86,71,Light Bluish Gray,Solid Colors,11,0.23
+3001,300126,3001.dat,Brick 2 x 4,11,0,Black,Solid Colors,1,2.32
+3001,6117418,3001.dat,Brick 2 x 4,59,320,Dark Red,Solid Colors,1,2.32
+3003,4211387,3003.dat,Brick 2 x 2,86,71,Light Bluish Gray,Solid Colors,1,1.35
+3004,4211388,3004.dat,Brick 1 x 2,86,71,Light Bluish Gray,Solid Colors,1,0.8
+3005,300526,3005.dat,Brick 1 x 1,11,0,Black,Solid Colors,4,0.44
+3010,6052777,3010.dat,Brick 1 x 4,59,320,Dark Red,Solid Colors,1,1.64
+3020,4539071,3020.dat,Plate 2 x 4,59,320,Dark Red,Solid Colors,1,1.2
+3020,4211395,3020.dat,Plate 2 x 4,86,71,Light Bluish Gray,Solid Colors,2,1.2
+3020,302026,3020.dat,Plate 2 x 4,11,0,Black,Solid Colors,3,1.2
+3021,302126,3021.dat,Plate 2 x 3,11,0,Black,Solid Colors,2,0.93
+3021,4211396,3021.dat,Plate 2 x 3,86,71,Light Bluish Gray,Solid Colors,5,0.93
+3022,4211397,3022.dat,Plate 2 x 2,86,71,Light Bluish Gray,Solid Colors,3,0.64
+3023,302326,3023b.dat,Plate 1 x 2,11,0,Black,Solid Colors,3,0.36
+3023,4211398,3023b.dat,Plate 1 x 2,86,71,Light Bluish Gray,Solid Colors,24,0.36
+3023,4539097,3023b.dat,Plate 1 x 2,59,320,Dark Red,Solid Colors,4,0.36
+3024,302426,3024.dat,Plate 1 x 1,11,0,Black,Solid Colors,6,0.2
+3024,4539114,3024.dat,Plate 1 x 1,59,320,Dark Red,Solid Colors,3,0.2
+3024,4211399,3024.dat,Plate 1 x 1,86,71,Light Bluish Gray,Solid Colors,17,0.2
+3031,4243819,3031.dat,Plate 4 x 4,11,0,Black,Solid Colors,1,2.22
+3032,303226,3032.dat,Plate 4 x 6,11,0,Black,Solid Colors,2,3.3
+3035,303526,3035.dat,Plate 4 x 8,11,0,Black,Solid Colors,1,4.7
+3037,4541380,3037.dat,Slope 45 2 x 4,59,320,Dark Red,Solid Colors,1,1.97
+30414,4162443,30414.dat,"Brick, Modified 1 x 4 with Studs on Side ",11,0,Black,Solid Colors,1,1.7
+30663,6057397,30663.dat,"Vehicle, Steering Wheel Small, 2 Studs Diameter ",11,0,Black,Solid Colors,1,0.4
+3068,4211413,3068b.dat,Tile 2 x 2,86,71,Light Bluish Gray,Solid Colors,1,0.48
+3068,4539105,3068b.dat,Tile 2 x 2,59,320,Dark Red,Solid Colors,1,0.48
+3069,6251292,3069b.dat,Tile 1 x 2,13,40,Trans-Brown,Transparent Colors,2,0.26
+3069,4211414,3069b.dat,Tile 1 x 2,86,71,Light Bluish Gray,Solid Colors,2,0.26
+3069,4539090,3069b.dat,Tile 1 x 2,59,320,Dark Red,Solid Colors,1,0.26
+3069,306901,3069b.dat,Tile 1 x 2,1,15,White,Solid Colors,1,0.26
+3070,4211415,3070b.dat,Tile 1 x 1,86,71,Light Bluish Gray,Solid Colors,10,0.16
+3070,4550169,3070b.dat,Tile 1 x 1,59,320,Dark Red,Solid Colors,2,0.16
+32028,4211568,32028.dat,"Plate, Modified 1 x 2 with Door Rail ",86,71,Light Bluish Gray,Solid Colors,2,0.44
+32028,6186005,32028.dat,"Plate, Modified 1 x 2 with Door Rail ",59,320,Dark Red,Solid Colors,1,0.44
+32064,6178919,32064c.dat,"Technic, Brick 1 x 2 with Axle Hole ",85,72,Dark Bluish Gray,Solid Colors,4,0.88
+32828,6396926,32828.dat,Bar   1L with 1 x 1 Round Plate with Hollow Stud,59,320,Dark Red,Solid Colors,1,
+32952,6225242,32952.dat,"Brick, Modified 1 x 1 x 1 2/3 with Studs on Side ",86,71,Light Bluish Gray,Solid Colors,2,0.7
+32952,6311108,32952.dat,"Brick, Modified 1 x 1 x 1 2/3 with Studs on Side ",59,320,Dark Red,Solid Colors,2,
+3386,6448793,3386.dat,"Brick, Round 1 x 1 x 2/3 Half Circle Extended with Stud on Side ",86,71,Light Bluish Gray,Solid Colors,2,
+3386,6424674,3386.dat,"Brick, Round 1 x 1 x 2/3 Half Circle Extended with Stud on Side ",11,0,Black,Solid Colors,8,
+3387,,3387.dat,"Vehicle, Mudguard 4 x 2 1/2 x 2 with Arch Round ",86,71,Light Bluish Gray,Solid Colors,2,2.3
+33909,6212077,33909.dat,"Tile, Modified 2 x 2 with Studs on Edge ",86,71,Light Bluish Gray,Solid Colors,3,0.57
+3460,4211425,3460.dat,Plate 1 x 8,86,71,Light Bluish Gray,Solid Colors,2,1.36
+35464,6439560,35464.dat,Slope 45 1 x 1 x 2/3 Double,11,0,Black,Solid Colors,2,
+35480,6248890,35480.dat,"Plate, Round 1 x 2 with Open Studs ",86,71,Light Bluish Gray,Solid Colors,3,0.26
+35787,6217875,35787.dat,"Tile, Modified 2 x 2 Triangular ",1,15,White,Solid Colors,2,0.24
+3622,4211428,3622.dat,Brick 1 x 3,86,71,Light Bluish Gray,Solid Colors,2,1.24
+3623,4539076,3623.dat,Plate 1 x 3,59,320,Dark Red,Solid Colors,1,0.53
+3623,4211429,3623.dat,Plate 1 x 3,86,71,Light Bluish Gray,Solid Colors,2,0.53
+3666,4211438,3666.dat,Plate 1 x 6,86,71,Light Bluish Gray,Solid Colors,1,1.06
+3679,4540203,3679.dat,"Turntable 2 x 2 Plate, Top ",86,71,Light Bluish Gray,Solid Colors,2,0.3
+36840,6335328,36840.dat,Bracket 1 x 1 - 1 x 1 Inverted,86,71,Light Bluish Gray,Solid Colors,2,
+3710,4211445,3710.dat,Plate 1 x 4,86,71,Light Bluish Gray,Solid Colors,2,0.71
+3710,4539061,3710.dat,Plate 1 x 4,59,320,Dark Red,Solid Colors,3,0.71
+3710,371026,3710.dat,Plate 1 x 4,11,0,Black,Solid Colors,2,0.71
+3749,4666579,3749.dat,"Technic, Axle  1L with Pin without Friction Ridges ",2,19,Tan,Solid Colors,4,0.22
+3795,4211452,3795.dat,Plate 2 x 6,86,71,Light Bluish Gray,Solid Colors,2,1.74
+3795,379526,3795.dat,Plate 2 x 6,11,0,Black,Solid Colors,1,1.74
+3937,4211469,3937.dat,Hinge Brick 1 x 2 Base,86,71,Light Bluish Gray,Solid Colors,2,0.48
+4070,4211476,4070.dat,"Brick, Modified 1 x 1 with Headlight ",86,71,Light Bluish Gray,Solid Colors,4,0.36
+4085a,,4085a.dat,"Plate, Modified 1 x 1 with Open O Clip Thin (Vertical Grip) ",11,0,Black,Solid Colors,2,0.3
+48336,4225201,48336.dat,"Plate, Modified 1 x 2 with Bar Handle on Side - Closed Ends ",11,0,Black,Solid Colors,1,0.54
+5091,6510127,5091.dat,"Tile, Modified 1 x 2 Wedge Left ",5,4,Red,Solid Colors,1,
+5091,,5091.dat,"Tile, Modified 1 x 2 Wedge Left ",86,71,Light Bluish Gray,Solid Colors,3,0.22
+5092,6510141,5092.dat,"Tile, Modified 1 x 2 Wedge Right ",5,4,Red,Solid Colors,1,
+5092,,5092.dat,"Tile, Modified 1 x 2 Wedge Right ",86,71,Light Bluish Gray,Solid Colors,3,0.22
+53118,6275175,53118.dat,"Minifigure, Utensil Video Game Controller ",11,0,Black,Solid Colors,2,
+54200,4531415,54200.dat,Slope 30 1 x 1 x 2/3,59,320,Dark Red,Solid Colors,3,0.21
+54200,4521921,54200.dat,Slope 30 1 x 1 x 2/3,86,71,Light Bluish Gray,Solid Colors,10,0.21
+54200,6245263,54200.dat,Slope 30 1 x 1 x 2/3,13,40,Trans-Brown,Transparent Colors,1,0.21
+60477,6013497,60477.dat,Slope 18 4 x 1,86,71,Light Bluish Gray,Solid Colors,2,1.1
+6134,4211881,6134.dat,Hinge Brick 2 x 2 Top Plate,86,71,Light Bluish Gray,Solid Colors,2,0.47
+63864,4558169,63864.dat,Tile 1 x 3,86,71,Light Bluish Gray,Solid Colors,6,0.39
+65632,6287674,65632.dat,Windscreen 6 x 6 x 1 2/3,13,40,Trans-Brown,Transparent Colors,1,
+6636,4211549,6636.dat,Tile 1 x 6,86,71,Light Bluish Gray,Solid Colors,1,0.83
+72206pb01,6337780,72206p01.dat,Wheel 24 x 12 with Pin Hole with Molded Black Hard Rubber Tire Pattern,77,148,Pearl Dark Gray,Pearl Colors,4,
+72210b,6323457,72210b.dat,Wheel Cover 9 Spoke - for Wheel 72206pb01,77,148,Pearl Dark Gray,Pearl Colors,4,
+77845,6456718,77845.dat,"Plate, Round 1 x 4 with 2 Open Studs ",86,71,Light Bluish Gray,Solid Colors,1,
+77845,6428167,77845.dat,"Plate, Round 1 x 4 with 2 Open Studs ",11,0,Black,Solid Colors,1,
+77850,6428168,77850.dat,"Plate, Round 1 x 3 with Open Studs ",11,0,Black,Solid Colors,2,
+78329,6372029,78329.dat,Plate 1 x 5,86,71,Light Bluish Gray,Solid Colors,4,
+85861,6168647,85861.dat,"Plate, Round 1 x 1 with Open Stud ",86,71,Light Bluish Gray,Solid Colors,1,0.1
+85861,6510164,85861.dat,"Plate, Round 1 x 1 with Open Stud ",12,47,Trans-Clear,Transparent Colors,1,
+85984,4568637,85984.dat,Slope 30 1 x 2 x 2/3,86,71,Light Bluish Gray,Solid Colors,1,0.34
+86876,6488441,86876.dat,"Brick, Modified 1 x 2 with Stud on Side with Bottom Stud Holder ",59,320,Dark Red,Solid Colors,2,
+86996,6401023,86996.dat,"Brick, Modified 1 x 1 x 2/3 with Open Stud ",86,71,Light Bluish Gray,Solid Colors,2,
+87079,4560183,87079.dat,Tile 2 x 4,86,71,Light Bluish Gray,Solid Colors,6,0.9
+90370,6199163,90370.dat,"Minifigure, Utensil Microphone ",86,71,Light Bluish Gray,Solid Colors,1,0.14
+99207,4654580,99207.dat,Bracket 1 x 2 - 2 x 2 Inverted,86,71,Light Bluish Gray,Solid Colors,2,0.8
+5093,6513905,bl_5093.dat,Wedge 2 x 2 x 2/3 Right,86,71,Light Bluish Gray,Solid Colors,2,
+5095,6507843,bl_5095.dat,Wedge 2 x 2 x 2/3 Left,86,71,Light Bluish Gray,Solid Colors,2,
+,,,,,,,,,
+Total qty,Total Weight,,,,,,,,
+364,149.83 +a
+,,,,,,,,
