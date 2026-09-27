@@ -1,0 +1,125 @@
+BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCategory,Qty,Weight
+105162pb01,6458183,105162p01.dat,Wheel 24 x 13.4 with Pin Hole with Molded Black Hard Rubber Tire Pattern,11,0,Black,Solid Colors,4,
+11477,6047276,11477.dat,"Slope, Curved 2 x 1 x 2/3 ",11,0,Black,Solid Colors,2,0.31
+14719,6133722,14719.dat,Tile 2 x 2 Corner,11,0,Black,Solid Colors,4,0.43
+15068,6053077,15068.dat,"Slope, Curved 2 x 2 x 2/3 ",11,0,Black,Solid Colors,4,0.57
+15068,6061569,15068.dat,"Slope, Curved 2 x 2 x 2/3 ",63,272,Dark Blue,Solid Colors,4,0.57
+15573,6092585,15573.dat,"Plate, Modified 1 x 2 with 1 Stud with Groove and Bottom Stud Holder (Jumper) ",11,0,Black,Solid Colors,2,0.3
+15712,6335388,15712.dat,"Tile, Modified 1 x 1 with Open O Clip ",11,0,Black,Solid Colors,2,0.2
+1751,6469830,1751.dat,Tile 4 x 4,11,0,Black,Solid Colors,1,
+20482,6186675,20482.dat,"Tile, Round 1 x 1 with Bar and Small Pin Hole ",11,0,Black,Solid Colors,2,0.16
+2420,242026,2420.dat,Plate 2 x 2 Corner,11,0,Black,Solid Colors,6,0.54
+2420,4528482,2420.dat,Plate 2 x 2 Corner,63,272,Dark Blue,Solid Colors,2,0.54
+2420,242021,2420.dat,Plate 2 x 2 Corner,5,4,Red,Solid Colors,4,0.54
+2431,6103985,2431.dat,Tile 1 x 4,63,272,Dark Blue,Solid Colors,2,0.54
+2431,243126,2431.dat,Tile 1 x 4,11,0,Black,Solid Colors,1,0.54
+2432,243226,2432.dat,"Tile, Modified 1 x 2 with Bar Handle ",11,0,Black,Solid Colors,1,0.58
+2456,4181144,2456.dat,Brick 2 x 6,11,0,Black,Solid Colors,2,3.74
+25269,6199890,25269.dat,"Tile, Round 1 x 1 Quarter ",63,272,Dark Blue,Solid Colors,4,0.1
+25269,6172366,25269.dat,"Tile, Round 1 x 1 Quarter ",1,15,White,Solid Colors,2,0.1
+25269,6172383,25269.dat,"Tile, Round 1 x 1 Quarter ",11,0,Black,Solid Colors,2,0.1
+26047,6157554,26047.dat,"Plate, Round 1 x 1 with Bar Handle ",11,0,Black,Solid Colors,2,0.3
+26603,6162892,26603.dat,Tile 2 x 3,11,0,Black,Solid Colors,2,0.68
+28192,6267487,28192.dat,Slope 45 2 x 1 with Cutout without Stud,11,0,Black,Solid Colors,2,
+2877,287726,2877.dat,"Brick, Modified 1 x 2 with Grille / Fluted Profile ",11,0,Black,Solid Colors,2,0.68
+29119,6214812,29119.dat,Wedge 2 x 1 x 2/3 Right,63,272,Dark Blue,Solid Colors,1,0.23
+29120,6214811,29120.dat,Wedge 2 x 1 x 2/3 Left,63,272,Dark Blue,Solid Colors,1,0.23
+3001,300126,3001.dat,Brick 2 x 4,11,0,Black,Solid Colors,6,2.32
+3005,300526,3005.dat,Brick 1 x 1,11,0,Black,Solid Colors,8,0.44
+3005,6240554,3005.dat,Brick 1 x 1,13,40,Trans-Brown,Transparent Colors,2,0.44
+3009,300926,3009.dat,Brick 1 x 6,11,0,Black,Solid Colors,1,2.42
+3010,301026,3010.dat,Brick 1 x 4,11,0,Black,Solid Colors,1,1.64
+3020,302023,3020.dat,Plate 2 x 4,7,1,Blue,Solid Colors,4,1.2
+3020,302026,3020.dat,Plate 2 x 4,11,0,Black,Solid Colors,6,1.2
+3021,4530028,3021.dat,Plate 2 x 3,63,272,Dark Blue,Solid Colors,4,0.93
+3022,302226,3022.dat,Plate 2 x 2,11,0,Black,Solid Colors,4,0.64
+3023,302301,3023b.dat,Plate 1 x 2,1,15,White,Solid Colors,4,0.36
+3023,302326,3023b.dat,Plate 1 x 2,11,0,Black,Solid Colors,23,0.36
+3023,4528981,3023b.dat,Plate 1 x 2,63,272,Dark Blue,Solid Colors,5,0.36
+3023,302323,3023b.dat,Plate 1 x 2,7,1,Blue,Solid Colors,4,0.36
+3024,302421,3024.dat,Plate 1 x 1,5,4,Red,Solid Colors,2,0.2
+3024,302423,3024.dat,Plate 1 x 1,7,1,Blue,Solid Colors,4,0.2
+3024,302426,3024.dat,Plate 1 x 1,11,0,Black,Solid Colors,28,0.2
+3024,6252039,3024.dat,Plate 1 x 1,13,40,Trans-Brown,Transparent Colors,2,0.2
+3031,4243819,3031.dat,Plate 4 x 4,11,0,Black,Solid Colors,1,2.22
+3032,303226,3032.dat,Plate 4 x 6,11,0,Black,Solid Colors,6,3.3
+3069,306926,3069b.dat,Tile 1 x 2,11,0,Black,Solid Colors,6,0.26
+3069,306921,3069b.dat,Tile 1 x 2,5,4,Red,Solid Colors,2,0.26
+3069,4528488,3069b.dat,Tile 1 x 2,63,272,Dark Blue,Solid Colors,4,0.26
+3070,307026,3070b.dat,Tile 1 x 1,11,0,Black,Solid Colors,4,0.16
+3070,4631385,3070b.dat,Tile 1 x 1,63,272,Dark Blue,Solid Colors,2,0.16
+32028,4107761,32028.dat,"Plate, Modified 1 x 2 with Door Rail ",11,0,Black,Solid Colors,2,0.44
+32064,6178919,32064c.dat,"Technic, Brick 1 x 2 with Axle Hole ",85,72,Dark Bluish Gray,Solid Colors,4,0.88
+3386,6424674,3386.dat,"Brick, Round 1 x 1 x 2/3 Half Circle Extended with Stud on Side ",11,0,Black,Solid Colors,14,
+33909,6192346,33909.dat,"Tile, Modified 2 x 2 with Studs on Edge ",11,0,Black,Solid Colors,6,0.57
+3460,346026,3460.dat,Plate 1 x 8,11,0,Black,Solid Colors,2,1.36
+35464,6223631,35464.dat,Slope 45 1 x 1 x 2/3 Double,4,25,Orange,Solid Colors,2,0.17
+35480,6210270,35480.dat,"Plate, Round 1 x 2 with Open Studs ",11,0,Black,Solid Colors,2,0.26
+35480,6210272,35480.dat,"Plate, Round 1 x 2 with Open Studs ",1,15,White,Solid Colors,1,0.26
+35787,6351892,35787.dat,"Tile, Modified 2 x 2 Triangular ",5,4,Red,Solid Colors,2,
+35787,6473177,35787.dat,"Tile, Modified 2 x 2 Triangular ",7,1,Blue,Solid Colors,2,
+3623,362326,3623.dat,Plate 1 x 3,11,0,Black,Solid Colors,6,0.53
+3666,366626,3666.dat,Plate 1 x 6,11,0,Black,Solid Colors,3,1.06
+3666,4508313,3666.dat,Plate 1 x 6,63,272,Dark Blue,Solid Colors,2,1.06
+36840,6307926,36840.dat,Bracket 1 x 1 - 1 x 1 Inverted,7,1,Blue,Solid Colors,4,
+36840,6462497,36840.dat,Bracket 1 x 1 - 1 x 1 Inverted,63,272,Dark Blue,Solid Colors,4,
+36841,6372478,36841.dat,Bracket 1 x 1 - 1 x 1,5,4,Red,Solid Colors,2,
+36841,6299338,36841.dat,Bracket 1 x 1 - 1 x 1,11,0,Black,Solid Colors,3,
+3710,371026,3710.dat,Plate 1 x 4,11,0,Black,Solid Colors,6,0.71
+3749,374926,3749.dat,"Technic, Axle  1L with Pin without Friction Ridges ",11,0,Black,Solid Colors,4,
+3795,6097420,3795.dat,Plate 2 x 6,63,272,Dark Blue,Solid Colors,1,1.74
+3795,379526,3795.dat,Plate 2 x 6,11,0,Black,Solid Colors,3,1.74
+3958,395826,3958.dat,Plate 6 x 6,11,0,Black,Solid Colors,1,4.71
+4079,407926,4079.dat,"Minifigure, Utensil Seat / Chair 2 x 2 ",11,0,Black,Solid Colors,2,1.13
+4162,416226,4162.dat,Tile 1 x 8,11,0,Black,Solid Colors,4,1.06
+43710,6040297,43710.dat,Wedge 4 x 2 Triple Left,11,0,Black,Solid Colors,1,1.3
+43711,6040298,43711.dat,Wedge 4 x 2 Triple Right,11,0,Black,Solid Colors,1,1.3
+4477,447726,4477.dat,Plate 1 x 10,11,0,Black,Solid Colors,4,1.61
+48336,4225201,48336.dat,"Plate, Modified 1 x 2 with Bar Handle on Side - Closed Ends ",11,0,Black,Solid Colors,1,0.54
+48729b,6439046,48729b.dat,Bar   1L with Clip Mechanical Claw - Cut Edges and Hole on Side,1,15,White,Solid Colors,4,
+49307,6273589,49307.dat,"Slope, Curved 1 x 1 x 2/3 Double ",11,0,Black,Solid Colors,2,
+5090,6458186,5090.dat,Bracket 1 x 6 - 2 x 6 Inverted with 1 x 4 Cutout,11,0,Black,Solid Colors,2,
+5091,6510127,5091.dat,"Tile, Modified 1 x 2 Wedge Left ",5,4,Red,Solid Colors,1,
+5091,6510132,5091.dat,"Tile, Modified 1 x 2 Wedge Left ",63,272,Dark Blue,Solid Colors,1,
+5092,6510141,5092.dat,"Tile, Modified 1 x 2 Wedge Right ",5,4,Red,Solid Colors,1,
+5092,6510146,5092.dat,"Tile, Modified 1 x 2 Wedge Right ",63,272,Dark Blue,Solid Colors,1,
+5414,6558853,5414.dat,Wedge 4 x 1 Right,63,272,Dark Blue,Solid Colors,1,
+5415,6558908,5415.dat,Wedge 4 x 1 Left,63,272,Dark Blue,Solid Colors,1,
+54200,4504379,54200.dat,Slope 30 1 x 1 x 2/3,5,4,Red,Solid Colors,4,0.21
+54200,4504382,54200.dat,Slope 30 1 x 1 x 2/3,11,0,Black,Solid Colors,4,0.21
+54200,4504374,54200.dat,Slope 30 1 x 1 x 2/3,63,272,Dark Blue,Solid Colors,4,0.21
+54200,4504380,54200.dat,Slope 30 1 x 1 x 2/3,7,1,Blue,Solid Colors,4,0.21
+54200,6245250,54200.dat,Slope 30 1 x 1 x 2/3,12,47,Trans-Clear,Transparent Colors,1,0.21
+61252,6308000,61252.dat,"Plate, Modified 1 x 1 with Open O Clip (Horizontal Grip) ",11,0,Black,Solid Colors,1,0.27
+4073,614126,6141.dat,"Plate, Round 1 x 1 ",11,0,Black,Solid Colors,6,0.12
+63864,4558170,63864.dat,Tile 1 x 3,11,0,Black,Solid Colors,3,0.39
+63864,4533742,63864.dat,Tile 1 x 3,5,4,Red,Solid Colors,2,0.39
+63864,6132566,63864.dat,Tile 1 x 3,63,272,Dark Blue,Solid Colors,2,0.39
+65632,6287674,65632.dat,Windscreen 6 x 6 x 1 2/3,13,40,Trans-Brown,Transparent Colors,1,
+6636,663601,6636.dat,Tile 1 x 6,1,15,White,Solid Colors,2,0.83
+6929,6522834,6929.dat,Wedge 4 x 2 Right No Studs,11,0,Black,Solid Colors,1,
+6930,6522832,6930.dat,Wedge 4 x 2 Left No Studs,11,0,Black,Solid Colors,1,
+69729,6318582,69729.dat,Tile 2 x 6,11,0,Black,Solid Colors,1,
+98313,6276867,76116.dat,"Arm Mechanical, Exo-Force / Bionicle, Thick Support ",11,0,Black,Solid Colors,2,
+79194,6510221,79194.dat,"Plate, Round 1 x 1 with Bar Handle on Long Stem ",1,15,White,Solid Colors,4,
+85984,4547489,85984.dat,Slope 30 1 x 2 x 2/3,1,15,White,Solid Colors,4,0.34
+85984,4548180,85984.dat,Slope 30 1 x 2 x 2/3,11,0,Black,Solid Colors,3,0.34
+87079,4560182,87079.dat,Tile 2 x 4,11,0,Black,Solid Colors,2,0.9
+87087,6224377,87087.dat,"Brick, Modified 1 x 1 with Stud on Side ",63,272,Dark Blue,Solid Colors,2,0.45
+93606,6056662,93606.dat,"Slope, Curved 4 x 2 ",63,272,Dark Blue,Solid Colors,2,1.4
+95344,6245281,95344.dat,"Minifigure, Utensil Bucket 1 x 1 x 1 Handle / Scooter Stand ",11,0,Black,Solid Colors,1,0.13
+98282,,98282.dat,"Vehicle, Mudguard 4 x 2 1/2 x 1 with Arch Round ",7,1,Blue,Solid Colors,2,1.56
+98282,6195160,98282.dat,"Vehicle, Mudguard 4 x 2 1/2 x 1 with Arch Round ",63,272,Dark Blue,Solid Colors,2,
+99207,6000650,99207.dat,Bracket 1 x 2 - 2 x 2 Inverted,11,0,Black,Solid Colors,2,0.8
+99563,6156991,99563.dat,"Minifigure, Utensil Ingot 1 x 2 ",11,0,Black,Solid Colors,1,0.22
+99780,6020193,99780.dat,Bracket 1 x 2 - 1 x 2 Inverted,11,0,Black,Solid Colors,6,0.55
+99780,6371455,99780.dat,Bracket 1 x 2 - 1 x 2 Inverted,63,272,Dark Blue,Solid Colors,2,
+99781,6016172,99781.dat,Bracket 1 x 2 - 1 x 2,11,0,Black,Solid Colors,9,0.55
+5093,6477760,bl_5093.dat,Wedge 2 x 2 x 2/3 Right,7,1,Blue,Solid Colors,1,
+5095,6507847,bl_5095.dat,Wedge 2 x 2 x 2/3 Left,7,1,Blue,Solid Colors,1,
+7828,,bl_7828.dat,"Tile, Modified 2 x 2 Wedge Left ",11,0,Black,Solid Colors,3,0.4
+7829,,bl_7829.dat,"Tile, Modified 2 x 2 Wedge Right ",11,0,Black,Solid Colors,3,0.4
+,,,,,,,,,
+Total qty,Total Weight,,,,,,,,
+386,200.58 +a
+,,,,,,,,
