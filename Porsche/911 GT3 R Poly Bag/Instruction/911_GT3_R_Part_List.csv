@@ -1,0 +1,54 @@
+BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCategory,Qty,Weight
+11212,6174917,11212.dat,Plate 3 x 3,11,0,Black,Solid Colors,2,1.25
+11477,6047426,11477.dat,"Slope, Curved 2 x 1 x 2/3 ",6,2,Green,Solid Colors,4,0.31
+15068,6053077,15068.dat,"Slope, Curved 2 x 2 x 2/3 ",11,0,Black,Solid Colors,2,0.57
+15397,6097283,15397.dat,"Plate, Modified 3 x 3 Cross ",11,0,Black,Solid Colors,1,0.85
+15712,6494113,15712.dat,"Tile, Modified 1 x 1 with Open O Clip ",6,2,Green,Solid Colors,1,
+24299,6385276,24299.dat,"Wedge, Plate 2 x 2  Left ",6,2,Green,Solid Colors,1,
+24307,6385279,24307.dat,"Wedge, Plate 2 x 2  Right ",6,2,Green,Solid Colors,1,
+2431,243128,2431.dat,Tile 1 x 4,6,2,Green,Solid Colors,3,0.54
+25269,6172366,25269.dat,"Tile, Round  1 x 1 Quarter ",1,15,White,Solid Colors,1,0.1
+25269,6170390,25269.dat,"Tile, Round  1 x 1 Quarter ",5,4,Red,Solid Colors,4,0.1
+26601,6174243,26601.dat,"Wedge, Plate 2 x 2  Cut Corner ",11,0,Black,Solid Colors,2,0.5
+27263,6385275,27263.dat,"Tile, Modified Facet 2 x 2 ",6,2,Green,Solid Colors,2,
+29119,6290601,29119.dat,Wedge 2 x 1 x 2/3 Right,6,2,Green,Solid Colors,1,
+29120,6290602,29120.dat,Wedge 2 x 1 x 2/3 Left,6,2,Green,Solid Colors,1,
+3021,302128,3021.dat,Plate 2 x 3,6,2,Green,Solid Colors,1,0.93
+3021,302126,3021.dat,Plate 2 x 3,11,0,Black,Solid Colors,1,0.93
+3021,302121,3021.dat,Plate 2 x 3,5,4,Red,Solid Colors,1,0.93
+3022,302226,3022.dat,Plate 2 x 2,11,0,Black,Solid Colors,1,0.64
+3023,302328,3023b.dat,Plate 1 x 2,6,2,Green,Solid Colors,5,0.36
+3024,302428,3024.dat,Plate 1 x 1,6,2,Green,Solid Colors,8,0.2
+3024,302426,3024.dat,Plate 1 x 1,11,0,Black,Solid Colors,11,0.2
+3069,306928,3069b.dat,Tile 1 x 2,6,2,Green,Solid Colors,4,0.26
+3070,307026,3070b.dat,Tile 1 x 1,11,0,Black,Solid Colors,1,0.16
+3070,4558593,3070b.dat,Tile 1 x 1,6,2,Green,Solid Colors,2,0.16
+32028,4272665,32028.dat,"Plate, Modified 1 x 2 with Door Rail ",6,2,Green,Solid Colors,2,0.44
+3386,6424674,3386.dat,"Brick, Round 1 x 1 x 2/3 Half Circle Extended with Stud on Side ",11,0,Black,Solid Colors,2,
+3386,6493351,3386.dat,"Brick, Round 1 x 1 x 2/3 Half Circle Extended with Stud on Side ",6,2,Green,Solid Colors,4,
+34103,6199908,34103.dat,"Plate, Modified 1 x 3 with 2 Studs (Double Jumper) ",11,0,Black,Solid Colors,2,0.43
+34103,6378110,34103.dat,"Plate, Modified 1 x 3 with 2 Studs (Double Jumper) ",6,2,Green,Solid Colors,3,
+35480,6210271,35480.dat,"Plate, Round 1 x 2 with Open Studs ",6,2,Green,Solid Colors,2,
+3623,362326,3623.dat,Plate 1 x 3,11,0,Black,Solid Colors,7,0.53
+3623,4107758,3623.dat,Plate 1 x 3,6,2,Green,Solid Colors,4,0.53
+36840,6493340,36840.dat,Bracket 1 x 1 - 1 x 1 Inverted,6,2,Green,Solid Colors,2,
+3710,371026,3710.dat,Plate 1 x 4,11,0,Black,Solid Colors,2,0.71
+47905,4214559,47905.dat,"Brick, Modified 1 x 1 with Studs on 2 Sides, Opposite ",11,0,Black,Solid Colors,1,0.45
+4865,6146220,4865a.dat,Panel 1 x 2 x 1,11,0,Black,Solid Colors,2,0.46
+50945,4246901,50951.dat,Tire 14mm D. x 6mm Solid Smooth,11,0,Black,Solid Colors,4,0.42
+54200,4504369,54200.dat,Slope 30 1 x 1 x 2/3,1,15,White,Solid Colors,2,0.21
+4073,614121,6141.dat,"Plate, Round 1 x 1 ",5,4,Red,Solid Colors,2,0.12
+4073,4523159,6141.dat,"Plate, Round 1 x 1 ",115,297,Pearl Gold,Pearl Colors,1,0.12
+4073,614126,6141.dat,"Plate, Round 1 x 1 ",11,0,Black,Solid Colors,5,0.12
+4073,614101,6141.dat,"Plate, Round 1 x 1 ",1,15,White,Solid Colors,6,0.12
+63864,6023083,63864.dat,Tile 1 x 3,6,2,Green,Solid Colors,2,0.39
+7302,,7302.dat,"Slope, Curved 3 x 1 x 2/3 ",6,2,Green,Solid Colors,3,0.46
+7302,,7302.dat,"Slope, Curved 3 x 1 x 2/3 ",11,0,Black,Solid Colors,2,0.46
+79194,6510216,79194.dat,"Plate, Round 1 x 1 with Bar Handle on Long Stem ",11,0,Black,Solid Colors,1,
+87079,4566179,87079.dat,Tile 2 x 4,6,2,Green,Solid Colors,1,0.9
+93595,4613162,93595.dat,Wheel 11mm D. x 6mm with 8 'Y' Spokes,11,0,Black,Solid Colors,4,0.38
+66897,6370669,bl_66897.dat,"Plate, Modified 1 x 2 with Wheel Holder, Reinforced Underside ",11,0,Black,Solid Colors,4,
+,,,,,,,,,
+Total qty,Total Weight,,,,,,,,
+131,39.04 +a
+,,,,,,,,
